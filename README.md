@@ -1,4 +1,4 @@
-# [DEMO LINK](https://andrii-rykal.github.io/green-gorizon/)
+# [Demo linkK](https://andrii-rykal.github.io/green-gorizon/)
 
 # [Landing link](https://github.com/andrii-rykal/green-gorizon)
 
