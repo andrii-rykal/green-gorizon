@@ -1,3 +1,7 @@
+# [DEMO LINK](https://andrii-rykal.github.io/green-gorizon/)
+
+# [Landing link](https://github.com/andrii-rykal/green-gorizon)
+
 # Green Horizon Ireland
 
 **Green Horizon Ireland** is a static web project showcasing a content-driven presentation of modern farming and agriculture in Ireland.
